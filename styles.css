@@ -1,5 +1,5 @@
 body {
-  background-image: "kitchen.jpg";
+  background-image: url("kitchen.jpg");
   text-align: center;
 }
 
