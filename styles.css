@@ -3,5 +3,6 @@ body {
 }
 
 .Title {
+  font-family: monospace;
   font-size: 50px;
 }
