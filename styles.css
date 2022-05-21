@@ -1,8 +1,9 @@
 body {
   background-color: #25c5ff;
+  text-align: center;
 }
 
 .Title {
   font-family: monospace;
-  font-size: 50px;
+  font-size: 55px;
 }
