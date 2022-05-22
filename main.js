@@ -1,19 +1,19 @@
-if(document.getElementById('home').clicked == true)
+document.getElementById('home').onclick()
 {
   window.location.href = "index.html";
 }
 
-if(document.getElementById('channel').clicked == true)
+document.getElementById('channel').onclick()
 {
   window.location.href = "https://www.youtube.com/channel/UC92UEMwg9Wf4Oe5_D9C0Xcg";
 }
 
-if(document.getElementById('aboutme').clicked == true)
+document.getElementById('aboutme').onclick()
 {
   window.location.href = "aboutme.html";
 }
 
-if(document.getElementById('mygames').clicked == true)
+document.getElementById('mygames').onclick()
 {
   window.location.href = "https://xyzcoder.itch.io/";
 }
