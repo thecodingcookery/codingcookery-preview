@@ -1,19 +1,19 @@
-document.getElementById('home').onclick()
+function home()
 {
   window.location.href = "index.html";
 }
 
-document.getElementById('channel').onclick()
+function channel()
 {
   window.location.href = "https://www.youtube.com/channel/UC92UEMwg9Wf4Oe5_D9C0Xcg";
 }
 
-document.getElementById('aboutme').onclick()
+function aboutme()
 {
   window.location.href = "aboutme.html";
 }
 
-document.getElementById('mygames').onclick()
+function mygames()
 {
   window.location.href = "https://xyzcoder.itch.io/";
 }
