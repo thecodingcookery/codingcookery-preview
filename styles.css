@@ -28,7 +28,7 @@ body {
 .butionBar:focus {
   background-color: white;
   color: black;
-  opacity: 60%;
+  opacity: 0;
   font-size: 30px;
   margin-left: -5px;
   margin-right: -5px;
