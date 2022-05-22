@@ -9,6 +9,11 @@ body {
   font-size: 66px;
 }
 
+p {
+  font-family: monospace;
+  font-size: 30px;
+}
+
 .butions {
   background-color: black;
   color: white;
