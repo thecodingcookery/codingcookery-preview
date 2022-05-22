@@ -17,7 +17,7 @@ body {
   margin-right: -5px;
 }
 
-.butionBar:hover {
+.butions:hover {
   background-color: white;
   color: black;
   font-size: 30px;
@@ -25,7 +25,7 @@ body {
   margin-right: -5px;
 }
 
-.butionBar:focus {
+.butions:focus {
   background-color: #ffa81d;
   color: black;
   opacity: 0;
