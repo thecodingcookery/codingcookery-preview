@@ -1,19 +1,19 @@
-function home()
+public function home()
 {
   window.location.href = "index.html";
 }
 
-function channel()
+public function channel()
 {
   window.location.href = "https://www.youtube.com/channel/UC92UEMwg9Wf4Oe5_D9C0Xcg";
 }
 
-function aboutme()
+public function aboutme()
 {
   window.location.href = "aboutme.html";
 }
 
-function mygames()
+public function mygames()
 {
   window.location.href = "https://xyzcoder.itch.io/";
 }
